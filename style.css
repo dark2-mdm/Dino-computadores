@@ -1,0 +1,25 @@
+
+.principal{
+   background: #808080
+}
+
+.titulo-principal{
+  padding-left: 20px
+}
+.titulo-contralizado {
+  text-align: center;}
+
+ 
+    #ladoalado{
+        display:flex;
+     justify-content: space-around; } 
+     #ladoalado{
+        float: left;
+        margin: auto;
+    }
+      p
+      {font-size:20px ;}
+
+em { font-size: 25px;
+   color: brown;
+}
